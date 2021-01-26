@@ -18,20 +18,13 @@ choco install everything -fy
 choco install putty -fy
 choco install windirstat -fy
 choco install everything -fy
-choco install virtualbox -fy
 
 :::: Media
 choco install greenshot -fy
 choco install vlc -fy
-choco install spotify -fy
 
 :::: Office
-choco install libreoffice-fresh -fy
 
 :::: Utilities + other
-choco install bitwarden -fy
-choco install qbittorrent -fy
-choco install malwarebytes -fy
 choco install teamviewer.portable -fy
 choco install bleachbit.portable -fy
-choco install veracrypt -fy
