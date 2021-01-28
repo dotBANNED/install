@@ -1,4 +1,6 @@
-# install
-Install tools and scripts.
+# windows install
+- programma installaties
+- register sleutels
+- debloating script
 
 https://mega.nz/folder/jF8TySxI
