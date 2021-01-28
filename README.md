@@ -1,4 +1,4 @@
-# windows install
+#install
 - programma installaties
 - register sleutels
 - debloating script
